@@ -1,0 +1,54 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+*.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Editor-specific temp files
+*~
+*.swp
+*.swo
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Compiled Python module files
+*.pyc
+
+# Package
+*.egg
+*.egg-info/
+*.egg-info/*
+
+# Miscellaneous
+*.bak
+*.tmp
+*.zip

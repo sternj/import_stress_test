@@ -1,0 +1,2 @@
+def bbbb():
+    print("BBBB")
